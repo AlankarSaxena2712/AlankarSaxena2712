@@ -75,6 +75,10 @@
 <p>&nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlankarSaxena2712&show_icons=true&theme=dark&locale=en" width="50%" alt="AlankarSaxena2712" />
 </p>
+<br />
+
+![Alankar's Github Graph](https://guarded-peak-25044.herokuapp.com/graph?username=AlankarSaxena2712&theme=react-dark&area=true)
+<br />
 
 ### Connect with me:
 <p align="left">
