@@ -95,3 +95,9 @@
         <img align="center" src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg" alt="AlankarSaxena2712" height="24" width="32" />
     </a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlankarSaxena2712/AlankarSaxena2712/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlankarSaxena2712/AlankarSaxena2712/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/AlankarSaxena2712/AlankarSaxena2712/output/github-snake.svg" />
+</picture>
